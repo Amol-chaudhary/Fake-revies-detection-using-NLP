@@ -1,1 +1,1 @@
-# Fake-revies-detection-using-NLP
+# Fake-reviews-detection-using-NLP
